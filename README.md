@@ -25,7 +25,8 @@ Bu projeyi çalıştırmak için aşağıdaki araçların yüklü olması gerekm
    ```bash
    git clone https://github.com/your-username/react-horoscope-app.git
 
-   ## İletişim
+   
+## İletişim
 
 - Yazar: Osman Nuri TURHAN
 - LinkedIn: https://www.linkedin.com/in/osman-nuri-turhan/
