@@ -27,6 +27,6 @@ Bu projeyi çalıştırmak için aşağıdaki araçların yüklü olması gerekm
 
    ## İletişim
 
-- Yazar: [Adınız Soyadınız]
-- LinkedIn: [LinkedIn profil linkiniz]
-- E-posta: [e-posta adresiniz]
+- Yazar: Osman Nuri TURHAN
+- LinkedIn: https://www.linkedin.com/in/osman-nuri-turhan/
+- E-posta: osmannuri.turhan01@gmail.com
